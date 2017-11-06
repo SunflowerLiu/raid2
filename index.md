@@ -2,6 +2,8 @@
 
 團隊成立目的是完成非當前版本的公會成就，以及完成需要多人的成就。
 
+可視情況調整出團內容，歡迎踴躍提供想法
+
 團長：森夫羅爾
 
 出團名單尚在確定中。目前已知有：森夫羅爾、一灰羽一、呆萌包子、厄弗冷、狼師獸液、喔啊啊、耶提蹦、Darc
@@ -57,6 +59,6 @@
 ## 聯絡
 
 - BattleTag: Sunflower#3315
-- LINE:SunflowerLiu
+- LINE: SunflowerLiu
 
 現在手機可以裝 Battle.net App（[Android](https://play.google.com/store/apps/details?id=com.blizzard.messenger)/[iOS](https://itunes.apple.com/us/app/blizzard-battle-net/id1241040030)），滿好用的。
